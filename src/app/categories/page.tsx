@@ -1,6 +1,5 @@
 'use client';
 import { useState, Suspense } from 'react';
-import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import ProductCard from '@/components/ui/ProductCard';
 import products from '@/data/products.json';

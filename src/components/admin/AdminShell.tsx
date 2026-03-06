@@ -62,7 +62,7 @@ export default function AdminShell({ children }: { children: React.ReactNode }) 
 
                     {/* Sidebar overlay (mobile) */}
                     {sidebarOpen && (
-                        <div onClick={() => setSidebarOpen(false)} style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.5)', zIndex: 49, backdrop: 'blur(4px)' }} />
+                        <div onClick={() => setSidebarOpen(false)} style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.5)', zIndex: 49, backdropFilter: 'blur(4px)' }} />
                     )}
 
                     {/* ─── Sidebar ─── */}

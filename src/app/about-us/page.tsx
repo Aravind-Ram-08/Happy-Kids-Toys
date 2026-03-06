@@ -1,3 +1,4 @@
+'use client';
 export default function AboutPage() {
     const milestones = [
         { year: '2018', title: 'Founded', desc: 'Happy Kids Toys was born with a dream to bring joy to every child in India.' },
@@ -75,8 +76,8 @@ export default function AboutPage() {
                             { icon: '🤝', title: 'Customer Love', desc: 'We go above and beyond — quick WhatsApp support, easy returns, fast delivery.', color: '#8b5cf6' },
                         ].map(v => (
                             <div key={v.title} style={{ background: 'white', borderRadius: '20px', padding: '28px 24px', boxShadow: '0 4px 16px rgba(0,0,0,0.06)', transition: 'transform 0.3s', cursor: 'default', borderTop: `4px solid ${v.color}` }}
-                                onMouseEnter={e => (e.currentTarget as HTMLDivElement).style.transform = 'translateY(-6px)'}
-                                onMouseLeave={e => (e.currentTarget as HTMLDivElement).style.transform = 'none'}
+                                onMouseEnter={(e: React.MouseEvent<HTMLDivElement>) => e.currentTarget.style.transform = 'translateY(-6px)'}
+                                onMouseLeave={(e: React.MouseEvent<HTMLDivElement>) => e.currentTarget.style.transform = 'none'}
                             >
                                 <div style={{ fontSize: '40px', marginBottom: '16px' }}>{v.icon}</div>
                                 <h3 style={{ fontWeight: 800, color: '#1a1a2e', marginBottom: '12px', fontSize: '17px' }}>{v.title}</h3>
@@ -111,8 +112,8 @@ export default function AboutPage() {
                     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '24px' }}>
                         {team.map(member => (
                             <div key={member.name} style={{ background: 'white', borderRadius: '24px', padding: '32px 24px', textAlign: 'center', boxShadow: '0 4px 20px rgba(0,0,0,0.07)', transition: 'transform 0.3s' }}
-                                onMouseEnter={e => (e.currentTarget as HTMLDivElement).style.transform = 'translateY(-6px)'}
-                                onMouseLeave={e => (e.currentTarget as HTMLDivElement).style.transform = 'none'}
+                                onMouseEnter={(e: React.MouseEvent<HTMLDivElement>) => e.currentTarget.style.transform = 'translateY(-6px)'}
+                                onMouseLeave={(e: React.MouseEvent<HTMLDivElement>) => e.currentTarget.style.transform = 'none'}
                             >
                                 <div style={{ width: '80px', height: '80px', background: 'linear-gradient(135deg, #FF6B6B, #ff8c42)', borderRadius: '50%', margin: '0 auto 16px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '40px' }}>{member.emoji}</div>
                                 <h3 style={{ fontWeight: 800, color: '#1a1a2e', fontSize: '18px', marginBottom: '4px' }}>{member.name}</h3>

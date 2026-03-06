@@ -8,7 +8,7 @@ import ScrollToTop from "@/components/ui/ScrollToTop";
 export const metadata: Metadata = {
   title: "Happy Kids Toys - Best Toys for Kids | Fast Delivery Across India",
   description: "Shop the best educational, musical, remote control, baby & outdoor toys for kids at Happy Kids Toys. Fast delivery across India. Order on WhatsApp!",
-  keywords: "kids toys, educational toys, baby toys, remote control toys, musical toys, outdoor toys, India",
+  keywords: ["kids toys", "educational toys", "baby toys", "remote control toys", "musical toys", "outdoor toys", "India"],
   openGraph: {
     title: "Happy Kids Toys",
     description: "Best Toys for Kids - Fast Delivery Across India",

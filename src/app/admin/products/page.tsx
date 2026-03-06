@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import AdminShell, { useDark, useToast } from '@/components/admin/AdminShell';
 import { AdminStore, AdminProduct } from '@/lib/adminStore';
 
