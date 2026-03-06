@@ -1,0 +1,293 @@
+[
+    {
+        "id": 1,
+        "name": "Super Learning Laptop",
+        "category": "Educational Toys",
+        "price": 999,
+        "originalPrice": 1499,
+        "rating": 4.8,
+        "reviews": 234,
+        "badge": "Best Seller",
+        "ageGroup": "3-6 years",
+        "image": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1558060370-d644479cb6f7?w=600&q=80",
+            "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80"
+        ],
+        "description": "Interactive learning laptop with 100+ activities covering alphabet, numbers, shapes & colors.",
+        "features": [
+            "100+ Learning Activities",
+            "Interactive Screen",
+            "Sound Effects",
+            "Bilingual Mode"
+        ],
+        "inStock": true,
+        "trending": true
+    },
+    {
+        "id": 2,
+        "name": "Rainbow Piano Keyboard",
+        "category": "Musical Toys",
+        "price": 749,
+        "originalPrice": 1200,
+        "rating": 4.7,
+        "reviews": 189,
+        "badge": "Hot Selling",
+        "ageGroup": "2-8 years",
+        "image": "https://images.unsplash.com/photo-1512733596533-7b00d187b4b9?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1512733596533-7b00d187b4b9?w=600&q=80",
+            "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=600&q=80"
+        ],
+        "description": "Colorful 37-key piano keyboard with built-in songs, record & playback, and drum beats.",
+        "features": [
+            "37 Keys",
+            "Built-in Songs",
+            "Record & Playback",
+            "Drum Beats Mode"
+        ],
+        "inStock": true,
+        "trending": true
+    },
+    {
+        "id": 3,
+        "name": "RC Monster Truck",
+        "category": "Remote Control Toys",
+        "price": 1299,
+        "originalPrice": 1999,
+        "rating": 4.9,
+        "reviews": 312,
+        "badge": "Trending",
+        "ageGroup": "6-12 years",
+        "image": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=600&q=80",
+            "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=600&q=80"
+        ],
+        "description": "Full-function 4WD monster truck with 2.4GHz remote, LED lights, and off-road tires.",
+        "features": [
+            "4WD Drive",
+            "2.4GHz Remote",
+            "LED Lights",
+            "Off-Road Tires"
+        ],
+        "inStock": true,
+        "trending": true
+    },
+    {
+        "id": 4,
+        "name": "Soft Bunny Plush Set",
+        "category": "Baby Toys",
+        "price": 499,
+        "originalPrice": 799,
+        "rating": 4.6,
+        "reviews": 156,
+        "badge": "New Arrival",
+        "ageGroup": "0-2 years",
+        "image": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=600&q=80"
+        ],
+        "description": "Ultra-soft plush bunny set made from hypoallergenic materials, perfect for newborns.",
+        "features": [
+            "Hypoallergenic",
+            "Machine Washable",
+            "Non-Toxic",
+            "BPA Free"
+        ],
+        "inStock": true,
+        "trending": false
+    },
+    {
+        "id": 5,
+        "name": "Garden Explorer Kit",
+        "category": "Outdoor Toys",
+        "price": 649,
+        "originalPrice": 999,
+        "rating": 4.5,
+        "reviews": 98,
+        "badge": "Best Seller",
+        "ageGroup": "4-10 years",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80"
+        ],
+        "description": "Complete outdoor explorer kit with binoculars, magnifying glass, compass & backpack.",
+        "features": [
+            "Binoculars",
+            "Magnifying Glass",
+            "Compass",
+            "Explorer Backpack"
+        ],
+        "inStock": true,
+        "trending": true
+    },
+    {
+        "id": 6,
+        "name": "STEM Building Blocks",
+        "category": "Educational Toys",
+        "price": 899,
+        "originalPrice": 1299,
+        "rating": 4.9,
+        "reviews": 421,
+        "badge": "Best Seller",
+        "ageGroup": "5-12 years",
+        "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=600&q=80"
+        ],
+        "description": "500-piece STEM building blocks set that teaches engineering and creative thinking.",
+        "features": [
+            "500 Pieces",
+            "STEM Certified",
+            "Multiple Builds",
+            "Storage Box"
+        ],
+        "inStock": true,
+        "trending": true
+    },
+    {
+        "id": 7,
+        "name": "Magic Music Drum Set",
+        "category": "Musical Toys",
+        "price": 1099,
+        "originalPrice": 1599,
+        "rating": 4.7,
+        "reviews": 203,
+        "badge": "Hot Selling",
+        "ageGroup": "3-10 years",
+        "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&q=80"
+        ],
+        "description": "Electronic drum set with 6 pads, multiple sounds, Bluetooth connectivity & carry case.",
+        "features": [
+            "6 Drum Pads",
+            "Bluetooth",
+            "Multiple Sounds",
+            "Carry Case"
+        ],
+        "inStock": true,
+        "trending": false
+    },
+    {
+        "id": 8,
+        "name": "Flying Drone Camera",
+        "category": "Remote Control Toys",
+        "price": 2499,
+        "originalPrice": 3499,
+        "rating": 4.8,
+        "reviews": 178,
+        "badge": "Trending",
+        "ageGroup": "10+ years",
+        "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600&q=80"
+        ],
+        "description": "Kids-friendly HD camera drone with obstacle avoidance, altitude hold & one-key landing.",
+        "features": [
+            "HD Camera",
+            "Obstacle Avoidance",
+            "Altitude Hold",
+            "One-Key Landing"
+        ],
+        "inStock": true,
+        "trending": true
+    },
+    {
+        "id": 9,
+        "name": "Baby Sensory Play Mat",
+        "category": "Baby Toys",
+        "price": 599,
+        "originalPrice": 899,
+        "rating": 4.8,
+        "reviews": 267,
+        "badge": "Best Seller",
+        "ageGroup": "0-2 years",
+        "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=600&q=80"
+        ],
+        "description": "Premium baby play mat with colorful jungle animals, crinkle sounds & teething rings.",
+        "features": [
+            "Crinkle Sounds",
+            "Teething Rings",
+            "Machine Washable",
+            "Non-Slip Base"
+        ],
+        "inStock": true,
+        "trending": false
+    },
+    {
+        "id": 10,
+        "name": "Sprinkle Splash Pool",
+        "category": "Outdoor Toys",
+        "price": 849,
+        "originalPrice": 1299,
+        "rating": 4.6,
+        "reviews": 145,
+        "badge": "Hot Selling",
+        "ageGroup": "2-8 years",
+        "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80"
+        ],
+        "description": "Inflatable splash pool with sprinkler ring, perfect for hot summer days in the backyard.",
+        "features": [
+            "Sprinkler Ring",
+            "Easy Inflate",
+            "Non-Slip Base",
+            "Durable PVC"
+        ],
+        "inStock": true,
+        "trending": true
+    },
+    {
+        "id": 11,
+        "name": "Art & Craft Kit",
+        "category": "Educational Toys",
+        "price": 549,
+        "originalPrice": 799,
+        "rating": 4.5,
+        "reviews": 188,
+        "badge": "New Arrival",
+        "ageGroup": "4-12 years",
+        "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80"
+        ],
+        "description": "Complete art & craft set with watercolors, crayons, clay, stencils and activity book.",
+        "features": [
+            "Watercolors",
+            "Air-Dry Clay",
+            "50+ Stencils",
+            "Activity Book"
+        ],
+        "inStock": true,
+        "trending": false
+    },
+    {
+        "id": 12,
+        "name": "Mini Guitar Set",
+        "category": "Musical Toys",
+        "price": 899,
+        "originalPrice": 1299,
+        "rating": 4.6,
+        "reviews": 134,
+        "badge": "New Arrival",
+        "ageGroup": "5-12 years",
+        "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=400&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=600&q=80"
+        ],
+        "description": "Realistic 6-string guitar for kids with tuner, pick, strap and beginner chord guide.",
+        "features": [
+            "6 Strings",
+            "Includes Tuner",
+            "Beginner Guide",
+            "Adjustable Strap"
+        ],
+        "inStock": true,
+        "trending": false
+    }
+]
